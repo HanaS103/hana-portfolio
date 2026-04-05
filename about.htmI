@@ -1,28 +1,30 @@
-<!DOCTYPE htmI>
-<htmI>
+<!DOCTYPE html>
+<html>
 <head>
   <title>About Me</title>
-<head>
+</head>
 <body>
-</nav>
-  <a href="index.html">Home</a>
-  <a href="about.htmI">About</a>
-</nav>
- <h1>Abou Me</h1>
-<p>Hello, I'm Hana Sijad.</p>
-  <p>I am building my skills and creating a portfolio to show my work, growth,and future
-  goals.</p>
 
-  <h2>My skills</h2>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About</a>
+  </nav>
+
+  <h1>About Me</h1>
+
+  <p>Hello, I’m Hana.</p>
+
+  <p>I am building my skills and creating a portfolio to show my work, growth, and future goals.</p>
+
+  <h2>My Skills</h2>
   <ul>
     <li>Learning GitHub</li>
-    <li>HTML<li>
-      <il>portfolio building</li>
+    <li>HTML</li>
+    <li>Portfolio Building</li>
   </ul>
-</body>
-  <htmI>
-      
 
+</body>
+</html>
     
   
   
