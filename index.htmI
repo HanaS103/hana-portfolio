@@ -5,6 +5,10 @@
 </head>
 <body>
 
+</nav>
+  <a href="index.html">Home</a>
+  <a href="about.htmI">About</a>
+</nav>
   <h1>Hello, I’m Hana</h1>
 
   <p>Welcome to my portfolio.</p>
