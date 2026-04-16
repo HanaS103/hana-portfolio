@@ -7,7 +7,6 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
   <nav>
     <a href="index.html">Home</a>
     <a href="about.html">About</a>
@@ -17,10 +16,7 @@
 
   <p>Hello, I’m Hana Sijad. I am a student with a growing interest in data science, technology, and problem-solving.</p>
 
-  <p>
-    I am currently developing my skills through hands-on learning and projects,
-    focusing on tools such as Python, SQL, and data analysis techniques.
-  </p>
+  <p>I am currently developing my skills through hands-on learning and projects, focusing on tools such as Python, SQL, and data analysis techniques.</p>
 
   <h2>Skills</h2>
   <ul>
@@ -35,10 +31,6 @@
   </ul>
 
   <h2>Goals</h2>
-  <p>
-    My goal is to continue building my technical skills by taking additional online courses,
-    expanding my knowledge, and staying up to date with new technologies and industry trends.
-  </p>
-
+  <p>My goal is to continue building my technical skills by taking additional online courses, expanding my knowledge, and staying up to date with new technologies and industry trends.</p>
 </body>
 </html>
