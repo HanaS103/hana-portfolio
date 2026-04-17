@@ -3,11 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Contact</title>
+  <title>Hana Portfolio</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
 
+<!-- Navigation -->
 <nav>
   <a href="index.html">Home</a>
   <a href="about-page.html">About</a>
@@ -15,10 +16,20 @@
   <a href="contact.html">Contact</a>
 </nav>
 
-<h1>Contact</h1>
+<!-- Home Content -->
+<h1>Hello, I’m Hana</h1>
 
-<p>Email: Private</p>
-<p>Phone: Private</p>
+<h2>Aspiring Professional | Building Skills in Technology & Problem-Solving</h2>
+
+<p>
+Welcome to my portfolio. This website showcases my learning journey, projects,
+and the skills I am developing as I grow in data science.
+</p>
+
+<p>
+I am focused on building strong foundations in technology, creativity, and communication,
+and I am excited to continue expanding my knowledge through real-world projects.
+</p>
 
 </body>
 </html>
